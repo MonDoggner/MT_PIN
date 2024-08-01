@@ -1,0 +1,4 @@
+core/__pycache__/
+core/config.py
+venv/
+PIN_DATA.db
